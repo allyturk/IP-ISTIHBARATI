@@ -46,4 +46,3 @@ elif soru == "h" or soru == "H":
     print(" [(:)] İyi günler [:)] ")
 else:
     print("[!]Hatalı tuşlama[!]")
-#88.227.59.77
